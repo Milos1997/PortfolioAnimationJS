@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
+
 .slider {
     position: absolute;
     top: 0;
@@ -99,7 +100,7 @@ section {
     color: white;
 }
 
-.btn {
+.btn1 {
     width: 140px;
     height: 45px;
     font-family: 'Roboto', sans-serif;
@@ -117,7 +118,7 @@ section {
     outline: none;
 }
 
-.btn:hover {
+.btn1:hover {
     background-color: #059fff;
     color: #fff;
     transform: translateY(-7px);
